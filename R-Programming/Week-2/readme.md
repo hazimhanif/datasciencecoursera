@@ -45,6 +45,8 @@ You can see some example output from this function. The function that you write 
 
 This assignment is about correlation. Find more info about correlation on:
 (https://www.mathsisfun.com/data/correlation.html)
+
+Note: Do not round any of the results
 ##Grading
 
 This assignment will be graded using a quiz.
